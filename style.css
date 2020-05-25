@@ -8,9 +8,8 @@ body {
   background-color: #232323;
 }
 
-.wrapper {
-    width: 600px;
-    padding: 30px;
+.navbar li {
+  font-size: 26px ;
 }
 
 
