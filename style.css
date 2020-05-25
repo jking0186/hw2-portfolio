@@ -12,6 +12,9 @@ body {
   font-size: 26px ;
 }
 
+#sticky-footer {
+  flex-shrink: none;
+}
 
 
 /* Media Queries */
