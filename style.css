@@ -10,6 +10,8 @@ body {
   background-image: url(./Assets/Images/joeking-36.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
 }
 
 
