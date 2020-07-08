@@ -1,19 +1,20 @@
-<center>
-<p> 
-    <img src="./Assets/Images/IMGBIN_computer-icons-résumé-curriculum-vitae-career-portfolio-png_2fnzFXey.png" width="100" height="100" alt="headerImage">
-    <h1>My Portfolio</h1>
-</p>
-</center>
+# Portfolio
+![portfolio](/Assets/Images/homepage.png)
 
- 
-​
-​
+![badge](https://img.shields.io/badge/License-None-blue.svg)
+
+  ## Table of Content
+  -[Description](#description)
+  -[Technologies](#technologies)
+  -[Usage](#usage)
+  -[DEMO](#demo)
+
 ## Description
-- A webpage built with the Bootstrap grid system.
-- The page consists of a navigation bar, an about, portfolio, and contact page.
-- A responsice layout
-- Responsive images
-​
-​
+The following application is a portfolio created to display all of the projects I've worked on while enrolled in the Vanderbilt University Coding Bootcamp. It will also be used to display future projects..
+
+## Technologies
+This application uses the following: HMTL and CSS
+
 ## Usage
-- Scroll and enjoy!
+
+## Demo
