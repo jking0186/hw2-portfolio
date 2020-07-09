@@ -35,4 +35,8 @@ body {
 
 @media screen and (max-width: 768px) {}
 
-@media screen and (max-width: 640px) {}
+@media screen and (max-width: 640px) {
+  .card-img {
+    display: inline-flex;
+  }
+}
