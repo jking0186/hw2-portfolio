@@ -23,6 +23,9 @@ body {
   flex-shrink: none;
 }
 
+#intro {
+  font-size: 24px;
+}
 /* .card-image {
   width: 12.5rem;
   height: 12.5rem;
